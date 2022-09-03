@@ -1,4 +1,4 @@
-#include <stdio.h>
+<stdio.h>
 int main() {
   long long n;
   int count = 0;
